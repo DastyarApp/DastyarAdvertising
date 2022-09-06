@@ -1,0 +1,23 @@
+ir.drmazhabi.dastyaradvertisingsample
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable close_back
+drawable ic_close_24
+id btn_close
+id full_video_view
+id medium_ad_button
+id medium_ad_image
+id medium_ad_view
+id small_ad_button
+id small_ad_image
+id small_ad_view
+layout activity_dastyar_full_screen_ad_view
+layout medium_ad_view
+layout small_ad_view
+string close_ad_view
+style Theme_AppCompat_Light_NoActionBar_FullScreen

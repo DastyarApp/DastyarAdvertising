@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\MohammadTaghipour\MyApplication\DastyarAdvertising\src\main\AndroidManifest.xml:2:1-13:12
+INJECTED from E:\MohammadTaghipour\MyApplication\DastyarAdvertising\src\main\AndroidManifest.xml:2:1-13:12
+INJECTED from E:\MohammadTaghipour\MyApplication\DastyarAdvertising\src\main\AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from E:\MohammadTaghipour\MyApplication\DastyarAdvertising\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from E:\MohammadTaghipour\MyApplication\DastyarAdvertising\src\main\AndroidManifest.xml
+		INJECTED from E:\MohammadTaghipour\MyApplication\DastyarAdvertising\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\MohammadTaghipour\MyApplication\DastyarAdvertising\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\MohammadTaghipour\MyApplication\DastyarAdvertising\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\MohammadTaghipour\MyApplication\DastyarAdvertising\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from E:\MohammadTaghipour\MyApplication\DastyarAdvertising\src\main\AndroidManifest.xml:7:5-11:19
+	android:usesCleartextTraffic
+		ADDED from E:\MohammadTaghipour\MyApplication\DastyarAdvertising\src\main\AndroidManifest.xml:7:18-53
+activity#ir.drmazhabi.dastyaradvertisingsample.DastyarFullScreenAdView
+ADDED from E:\MohammadTaghipour\MyApplication\DastyarAdvertising\src\main\AndroidManifest.xml:8:9-10:40
+	android:exported
+		ADDED from E:\MohammadTaghipour\MyApplication\DastyarAdvertising\src\main\AndroidManifest.xml:10:13-37
+	android:name
+		ADDED from E:\MohammadTaghipour\MyApplication\DastyarAdvertising\src\main\AndroidManifest.xml:9:13-89
+uses-sdk
+INJECTED from E:\MohammadTaghipour\MyApplication\DastyarAdvertising\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\MohammadTaghipour\MyApplication\DastyarAdvertising\src\main\AndroidManifest.xml
+INJECTED from E:\MohammadTaghipour\MyApplication\DastyarAdvertising\src\main\AndroidManifest.xml
+INJECTED from E:\MohammadTaghipour\MyApplication\DastyarAdvertising\src\main\AndroidManifest.xml
+INJECTED from E:\MohammadTaghipour\MyApplication\DastyarAdvertising\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\MohammadTaghipour\MyApplication\DastyarAdvertising\src\main\AndroidManifest.xml
+		ADDED from E:\MohammadTaghipour\MyApplication\DastyarAdvertising\src\main\AndroidManifest.xml
+		INJECTED from E:\MohammadTaghipour\MyApplication\DastyarAdvertising\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\MohammadTaghipour\MyApplication\DastyarAdvertising\src\main\AndroidManifest.xml
+		ADDED from E:\MohammadTaghipour\MyApplication\DastyarAdvertising\src\main\AndroidManifest.xml
+		INJECTED from E:\MohammadTaghipour\MyApplication\DastyarAdvertising\src\main\AndroidManifest.xml
